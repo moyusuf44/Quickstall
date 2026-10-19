@@ -266,3 +266,5 @@ Cloning a repository does not restore ignored .env files, local development vari
 ## Learning note
 
 The main lesson from this move is that a laptop setup is more than a list of downloads. Each tool has a home, a PATH, a version, and sometimes a separate identity or configuration in Windows and Linux. Installing one tool, checking it, and writing down what happened makes the next setup less stressful and the commands easier to understand.
+
+Build → learn → break → fix → understand.
